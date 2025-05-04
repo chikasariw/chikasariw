@@ -1,18 +1,21 @@
 <h1>Hi 👋, I'm Chika Sari Wibowo</h1>
 <h3>A Junior Front-End Developer from Indonesia</h3>
 
+<hr />
 <ul>
-  <li>🔭 I’m currently working on <strong>my portfolio!</strong> (please stay tuned!)</li>
+  <li>🔭 I’m currently working on <strong>my portfolio!</strong> (please stay tuned)</li>
   <li>🌱 I’m currently learning <strong>Next.js</strong> and <strong>Tailwind CSS</strong></li>
-  <li>📝 I regularly write articles on <a href="https://medium.com/@kosmikarchive" target="_blank">Medium</a></li>
+  <li>📝 I regularly write on <a href="https://medium.com/@kosmikarchive" target="_blank">Medium</a></li>
   <li>📫 How to reach me: <strong>chikasariw@gmail.com</strong></li>
   <li>⚡ Fun fact: <strong>I love reading novels!</strong></li>
 </ul>
 
+<hr />
 <h3>Blog Posts</h3>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+<hr />
 <h3>Connect with me:</h3>
 <p>
   <a href="https://twitter.com/owraline" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
@@ -21,6 +24,7 @@
   <a href="https://medium.com/@kosmikarchive" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
 </p>
 
+<hr />
 <h3>Languages and Tools:</h3>
 <p>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
